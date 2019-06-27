@@ -57,10 +57,4 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
-  <ItemGroup>
-    <Build Include="XMLSchemaCollection1.xsd">
-      <RelationalSchema>dbo</RelationalSchema>
-      <XMLSchemaCollectionName>XMLSchemaCollection1</XMLSchemaCollectionName>
-    </Build>
-  </ItemGroup>
 </Project>
